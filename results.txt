@@ -1,0 +1,111 @@
+Radius=16	Neighbors=3
+Accuracy: 0.60%,		kernel: linear		C: 0.1,		Gamma: 1
+Accuracy: 0.60%,		kernel: linear		C: 0.1,		Gamma: 0.1
+Accuracy: 0.60%,		kernel: linear		C: 0.1,		Gamma: 0.01
+Accuracy: 0.60%,		kernel: linear		C: 0.1,		Gamma: 0.001
+Accuracy: 0.60%,		kernel: linear		C: 0.1,		Gamma: 1e-05
+Accuracy: 0.60%,		kernel: linear		C: 0.1,		Gamma: 10
+Accuracy: 0.60%,		kernel: linear		C: 1,		Gamma: 1
+Accuracy: 0.60%,		kernel: linear		C: 1,		Gamma: 0.1
+Accuracy: 0.60%,		kernel: linear		C: 1,		Gamma: 0.01
+Accuracy: 0.60%,		kernel: linear		C: 1,		Gamma: 0.001
+Accuracy: 0.60%,		kernel: linear		C: 1,		Gamma: 1e-05
+Accuracy: 0.60%,		kernel: linear		C: 1,		Gamma: 10
+Accuracy: 0.60%,		kernel: linear		C: 10,		Gamma: 1
+Accuracy: 0.60%,		kernel: linear		C: 10,		Gamma: 0.1
+Accuracy: 0.60%,		kernel: linear		C: 10,		Gamma: 0.01
+Accuracy: 0.60%,		kernel: linear		C: 10,		Gamma: 0.001
+Accuracy: 0.60%,		kernel: linear		C: 10,		Gamma: 1e-05
+Accuracy: 0.60%,		kernel: linear		C: 10,		Gamma: 10
+Accuracy: 0.60%,		kernel: linear		C: 100,		Gamma: 1
+Accuracy: 0.60%,		kernel: linear		C: 100,		Gamma: 0.1
+Accuracy: 0.60%,		kernel: linear		C: 100,		Gamma: 0.01
+Accuracy: 0.60%,		kernel: linear		C: 100,		Gamma: 0.001
+Accuracy: 0.60%,		kernel: linear		C: 100,		Gamma: 1e-05
+Accuracy: 0.60%,		kernel: linear		C: 100,		Gamma: 10
+Accuracy: 0.60%,		kernel: rbf		C: 0.1,		Gamma: 1
+Accuracy: 0.50%,		kernel: rbf		C: 0.1,		Gamma: 0.1
+Accuracy: 0.60%,		kernel: rbf		C: 0.1,		Gamma: 0.01
+Accuracy: 0.64%,		kernel: rbf		C: 0.1,		Gamma: 0.001
+Accuracy: 0.62%,		kernel: rbf		C: 0.1,		Gamma: 1e-05
+Accuracy: 0.50%,		kernel: rbf		C: 0.1,		Gamma: 10
+Accuracy: 0.60%,		kernel: rbf		C: 1,		Gamma: 1
+Accuracy: 0.51%,		kernel: rbf		C: 1,		Gamma: 0.1
+Accuracy: 0.58%,		kernel: rbf		C: 1,		Gamma: 0.01
+Accuracy: 0.62%,		kernel: rbf		C: 1,		Gamma: 0.001
+Accuracy: 0.62%,		kernel: rbf		C: 1,		Gamma: 1e-05
+Accuracy: 0.50%,		kernel: rbf		C: 1,		Gamma: 10
+Accuracy: 0.60%,		kernel: rbf		C: 10,		Gamma: 1
+Accuracy: 0.56%,		kernel: rbf		C: 10,		Gamma: 0.1
+Accuracy: 0.62%,		kernel: rbf		C: 10,		Gamma: 0.01
+Accuracy: 0.54%,		kernel: rbf		C: 10,		Gamma: 0.001
+Accuracy: 0.62%,		kernel: rbf		C: 10,		Gamma: 1e-05
+Accuracy: 0.50%,		kernel: rbf		C: 10,		Gamma: 10
+Accuracy: 0.60%,		kernel: rbf		C: 100,		Gamma: 1
+Accuracy: 0.56%,		kernel: rbf		C: 100,		Gamma: 0.1
+Accuracy: 0.62%,		kernel: rbf		C: 100,		Gamma: 0.01
+Accuracy: 0.54%,		kernel: rbf		C: 100,		Gamma: 0.001
+Accuracy: 0.62%,		kernel: rbf		C: 100,		Gamma: 1e-05
+Accuracy: 0.50%,		kernel: rbf		C: 100,		Gamma: 10
+Highest Accuracy: 0.64%,		kernel: rbf		C: 0.1,		Gamma: 0.001
+
+
+Radius=8	Neighbors=3
+Accuracy: 0.58%,		kernel: linear			C: 0.1,		Gamma: 1
+Accuracy: 0.58%,		kernel: linear			C: 0.1,		Gamma: 0.1
+Accuracy: 0.58%,		kernel: linear			C: 0.1,		Gamma: 0.01
+Accuracy: 0.58%,		kernel: linear			C: 0.1,		Gamma: 0.001
+Accuracy: 0.58%,		kernel: linear			C: 0.1,		Gamma: 1e-05
+Accuracy: 0.58%,		kernel: linear			C: 0.1,		Gamma: 10
+Accuracy: 0.58%,		kernel: linear			C: 1,		Gamma: 1
+Accuracy: 0.58%,		kernel: linear			C: 1,		Gamma: 0.1
+Accuracy: 0.58%,		kernel: linear			C: 1,		Gamma: 0.01
+Accuracy: 0.58%,		kernel: linear			C: 1,		Gamma: 0.001
+Accuracy: 0.58%,		kernel: linear			C: 1,		Gamma: 1e-05
+Accuracy: 0.58%,		kernel: linear			C: 1,		Gamma: 10
+Accuracy: 0.58%,		kernel: linear			C: 10,		Gamma: 1
+Accuracy: 0.58%,		kernel: linear			C: 10,		Gamma: 0.1
+Accuracy: 0.58%,		kernel: linear			C: 10,		Gamma: 0.01
+Accuracy: 0.58%,		kernel: linear			C: 10,		Gamma: 0.001
+Accuracy: 0.58%,		kernel: linear			C: 10,		Gamma: 1e-05
+Accuracy: 0.58%,		kernel: linear			C: 10,		Gamma: 10
+Accuracy: 0.58%,		kernel: linear			C: 100,		Gamma: 1
+Accuracy: 0.58%,		kernel: linear			C: 100,		Gamma: 0.1
+Accuracy: 0.58%,		kernel: linear			C: 100,		Gamma: 0.01
+Accuracy: 0.58%,		kernel: linear			C: 100,		Gamma: 0.001
+Accuracy: 0.58%,		kernel: linear			C: 100,		Gamma: 1e-05
+Accuracy: 0.58%,		kernel: linear			C: 100,		Gamma: 10
+Accuracy: 0.64%,		kernel: rbf			C: 0.1,		Gamma: 1
+Accuracy: 0.50%,		kernel: rbf			C: 0.1,		Gamma: 0.1
+Accuracy: 0.61%,		kernel: rbf			C: 0.1,		Gamma: 0.01
+Accuracy: 0.64%,		kernel: rbf			C: 0.1,		Gamma: 0.001
+Accuracy: 0.65%,		kernel: rbf			C: 0.1,		Gamma: 1e-05
+Accuracy: 0.50%,		kernel: rbf			C: 0.1,		Gamma: 10
+Accuracy: 0.64%,		kernel: rbf			C: 1,		Gamma: 1
+Accuracy: 0.53%,		kernel: rbf			C: 1,		Gamma: 0.1
+Accuracy: 0.67%,		kernel: rbf			C: 1,		Gamma: 0.01
+Accuracy: 0.64%,		kernel: rbf			C: 1,		Gamma: 0.001
+Accuracy: 0.65%,		kernel: rbf			C: 1,		Gamma: 1e-05
+Accuracy: 0.50%,		kernel: rbf			C: 1,		Gamma: 10
+Accuracy: 0.64%,		kernel: rbf			C: 10,		Gamma: 1
+Accuracy: 0.53%,		kernel: rbf			C: 10,		Gamma: 0.1
+Accuracy: 0.62%,		kernel: rbf			C: 10,		Gamma: 0.01
+Accuracy: 0.62%,		kernel: rbf			C: 10,		Gamma: 0.001
+Accuracy: 0.65%,		kernel: rbf			C: 10,		Gamma: 1e-05
+Accuracy: 0.50%,		kernel: rbf			C: 10,		Gamma: 10
+Accuracy: 0.64%,		kernel: rbf			C: 100,		Gamma: 1
+Accuracy: 0.53%,		kernel: rbf			C: 100,		Gamma: 0.1
+Accuracy: 0.62%,		kernel: rbf			C: 100,		Gamma: 0.01
+Accuracy: 0.62%,		kernel: rbf			C: 100,		Gamma: 0.001
+Accuracy: 0.64%,		kernel: rbf			C: 100,		Gamma: 1e-05
+Accuracy: 0.50%,		kernel: rbf			C: 100,		Gamma: 10
+Highest Accuracy: 0.67%,		kernel: rbf		C: 1,		Gamma: 0.01
+
+
+
+Test Accuracy: 0.67%,	kernel: rbf	    C: 1,	Gamma: 0.01
+
+Confusion Matrix:
+		Male	Female
+Male	26		14
+Female	9		21
